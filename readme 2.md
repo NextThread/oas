@@ -1,8 +1,5 @@
-# The Official website of Minimax Studio 
+# The Official website of Minimax Studio
+
 The All-in-one Digital Design Agency in Sri Lanka.
-
- <h4>The Art Makes You Feel Something;
- The Design Makes You Do Something</h4>
- 
-
- 
+<p>The ultimate destination to;
+<br>start your coding journey
