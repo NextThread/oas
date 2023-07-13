@@ -1,0 +1,76 @@
+/* @font-face {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    src: local("Montserrat Regular"), local("Montserrat-Regular"), url(../vendor/darwin/fonts/montserrat-v14-latin-regular.woff2) format("woff2"), url(../vendor/darwin/fonts/montserrat-v14-latin-regular.woff) format("woff");
+    font-display: swap
+} */
+
+@font-face {
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: 400;
+    src: local("Montserrat Italic"), local("Montserrat-Italic"), url(../vendor/darwin/fonts/montserrat-v14-latin-italic.woff2) format("woff2"), url(../vendor/darwin/fonts/montserrat-v14-latin-italic.woff) format("woff");
+    font-display: swap
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    src: local("Montserrat Bold"), local("Montserrat-Bold"), url(../vendor/darwin/fonts/montserrat-v14-latin-700.woff2) format("woff2"), url(../vendor/darwin/fonts/montserrat-v14-latin-700.woff) format("woff");
+    font-display: swap
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: 700;
+    src: local("Montserrat Bold Italic"), local("Montserrat-BoldItalic"), url(../vendor/darwin/fonts/montserrat-v14-latin-700italic.woff2) format("woff2"), url(../vendor/darwin/fonts/montserrat-v14-latin-700italic.woff) format("woff");
+    font-display: swap
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    src: local("Montserrat ExtraBold"), local("Montserrat-ExtraBold"), url(../vendor/darwin/fonts/montserrat-v14-latin-800.woff2) format("woff2"), url(../vendor/darwin/fonts/montserrat-v14-latin-800.woff) format("woff");
+    font-display: swap
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: 800;
+    src: local("Montserrat ExtraBold Italic"), local("Montserrat-ExtraBoldItalic"), url(../vendor/darwin/fonts/montserrat-v14-latin-800italic.woff2) format("woff2"), url(../vendor/darwin/fonts/montserrat-v14-latin-800italic.woff) format("woff");
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../vendor/darwin/fonts/normal/montserrat-regular-webfont.woff2') format('woff2'),
+         url('../vendor/darwin/fonts/normal/montserrat-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat-nav';
+    src: url('../vendor/darwin/fonts/normal/montserrat-regular-webfont.woff2') format('woff2'),
+         url('../vendor/darwin/fonts/normal/montserrat-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* ///////////////////////// */
+/* .SF-font {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont;
+}
+
+.Graphik-font {
+    font-family: 'Graphik-web', Helvetica, sans-serif;
+}
+
+.open-sans {
+    font-family: "Open Sans", sans-serif;
+} */
