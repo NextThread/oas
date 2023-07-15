@@ -1,0 +1,8 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyDY5KhfYGLEUb6jF0UxM9awDTJla2zHlao",
+    authDomain: "yarnn-fa419.firebaseapp.com",
+    projectId: "yarnn-fa419",
+    storageBucket: "yarnn-fa419.appspot.com",
+    messagingSenderId: "62665738274",
+    appId: "1:62665738274:web:0567bb9c7691f6607a227b"
+  };
